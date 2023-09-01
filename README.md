@@ -1,3 +1,0 @@
-# Ejemplo
-
-ejemplo x2
